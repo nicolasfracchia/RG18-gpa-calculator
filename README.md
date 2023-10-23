@@ -11,12 +11,13 @@
 </details>
 <details>
     <summary>2. Create a function called calculateGPA(arr)</summary>
-    Inside the JavaScript file you created, create a function called calculateGPA.
-    * Parameter:arr;
-    * The function should take an array of alphabets representing the grades
-    * Each alphabet in the array should be checked using the === operator.
-    * Using a for loop and if, else if, and else statements, sum the numeric values of the grades. Next, divide the sum by the number of subjects to get the average numeric GPA.
-    * Using logical and comparison operators, check the value of the average numeric result and convert that to an alphabetic GPA value.
+    
+Inside the JavaScript file you created, create a function called calculateGPA.
+* Parameter:arr;
+* The function should take an array of alphabets representing the grades
+* Each alphabet in the array should be checked using the === operator.
+* Using a for loop and if, else if, and else statements, sum the numeric values of the grades. Next, divide the sum by the number of subjects to get the average numeric GPA.
+* Using logical and comparison operators, check the value of the average numeric result and convert that to an alphabetic GPA value.
 </details>
 
 <details>
